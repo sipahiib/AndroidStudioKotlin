@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstAndroidStudioKotlin</string>
+    <string name="Resource">Sipahi Ne Haber</string>
+    <string name="tikla">Tıkla</string>
+    <string name="sipahi">Sipahi Ne Haber</string>
+    <string name="deneme">Deneme</string>
+</resources>
